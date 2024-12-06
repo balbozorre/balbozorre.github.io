@@ -1,1 +1,9 @@
+.ligne {
+    display : flex;
+    flex-direction: row;
+}
 
+.colonne {
+    display : flex;
+    flex-direction: column;
+}
