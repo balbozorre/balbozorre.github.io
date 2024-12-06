@@ -3,7 +3,14 @@
     flex-direction: row;
 }
 
+.ligne > * {
+    flex : 1;
+}
+
 .colonne {
     display : flex;
     flex-direction: column;
+}
+.colonne > * {
+    flex : 1;
 }
