@@ -4,6 +4,7 @@
 }
 
 .ligne > * {
+    margin : 10px;
     flex : 1;
 }
 
@@ -12,5 +13,6 @@
     flex-direction: column;
 }
 .colonne > * {
+    margin : 10px;
     flex : 1;
 }
